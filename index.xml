@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🌱樂の花园</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🌱樂の花园</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>测试显示屏</title>
+    <link>https://quartz.jzhao.xyz/life/%E6%B5%8B%E8%AF%95%E6%98%BE%E7%A4%BA%E5%B1%8F</link>
+    <guid>https://quartz.jzhao.xyz/life/%E6%B5%8B%E8%AF%95%E6%98%BE%E7%A4%BA%E5%B1%8F</guid>
+    <description></description>
+    <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title> 🌿生活</title>
+    <link>https://quartz.jzhao.xyz/life/</link>
+    <guid>https://quartz.jzhao.xyz/life/</guid>
+    <description>时间在羊毛毯上，打了个温柔的盹。.</description>
+    <pubDate>Sat, 12 Jul 2025 16:21:14 GMT</pubDate>
+  </item><item>
+    <title>🍳做饭指南</title>
+    <link>https://quartz.jzhao.xyz/life/%F0%9F%8D%B3%E5%81%9A%E9%A5%AD%E6%8C%87%E5%8D%97</link>
+    <guid>https://quartz.jzhao.xyz/life/%F0%9F%8D%B3%E5%81%9A%E9%A5%AD%E6%8C%87%E5%8D%97</guid>
+    <description>以后再说吧，近两年没空，但是一定会学的，25/7/12 How To Cook 食用手册 .</description>
+    <pubDate>Sat, 12 Jul 2025 16:21:14 GMT</pubDate>
+  </item><item>
+    <title>🧶杂物</title>
+    <link>https://quartz.jzhao.xyz/misc/</link>
+    <guid>https://quartz.jzhao.xyz/misc/</guid>
+    <description>所有沉默的尘埃，开始轻轻歌唱。.</description>
+    <pubDate>Sat, 12 Jul 2025 16:21:14 GMT</pubDate>
+  </item><item>
+    <title>💻技术</title>
+    <link>https://quartz.jzhao.xyz/tech/</link>
+    <guid>https://quartz.jzhao.xyz/tech/</guid>
+    <description>一行代码，便是一个宇宙的呼吸。.</description>
+    <pubDate>Sat, 12 Jul 2025 16:21:14 GMT</pubDate>
+  </item><item>
+    <title>独立游戏开发</title>
+    <link>https://quartz.jzhao.xyz/misc/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91</link>
+    <guid>https://quartz.jzhao.xyz/misc/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91</guid>
+    <description>像素画 资源 Godot主题：github.com/passivestar/godot-minimal-theme 文字主题：jetbrains mono 游戏设计模式 Game Programming Patterns 独立游戏开发的资源导航站：game.indiehubs.org FIRE(经济独立，提前退休)资源导航站：fire.indiehubs.org 源代码反编译器GDRETools/gdsdecomp: Godot reverse engineering tools 独立开发初学者指南A Beginner’s Guide to Indie Development : r/game...</description>
+    <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Docker部署技术栈环境</title>
+    <link>https://quartz.jzhao.xyz/tech/Docker%E9%83%A8%E7%BD%B2%E6%8A%80%E6%9C%AF%E6%A0%88%E7%8E%AF%E5%A2%83</link>
+    <guid>https://quartz.jzhao.xyz/tech/Docker%E9%83%A8%E7%BD%B2%E6%8A%80%E6%9C%AF%E6%A0%88%E7%8E%AF%E5%A2%83</guid>
+    <description> 一点一点的积累，不要一口气吃一个大胖子 docker network create my-network docker run -d \ --name mysql \ --restart always \ -e TZ=Asia/Shanghai \ -e MYSQL_ROOT_PASSWORD=123456 \ -p 13306:3306 \ -v ./mysql/sql:/docker-entrypoint-initdb.d \ --health-cmd &quot;mysqladmin ping -h localhost&quot; \ --health-interval 5s \ --...</description>
+    <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>表结构设计规范</title>
+    <link>https://quartz.jzhao.xyz/tech/%E8%A1%A8%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83</link>
+    <guid>https://quartz.jzhao.xyz/tech/%E8%A1%A8%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83</guid>
+    <description> MySQL | 小傅哥 bugstack 虫洞栈 设计规范 1.</description>
+    <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>需求设计</title>
+    <link>https://quartz.jzhao.xyz/tech/%E9%9C%80%E6%B1%82%E8%AE%BE%E8%AE%A1</link>
+    <guid>https://quartz.jzhao.xyz/tech/%E9%9C%80%E6%B1%82%E8%AE%BE%E8%AE%A1</guid>
+    <description> 详细的产品PRD交互流程，比如说用户、前端页面、后端服务、微信公众号登录、支付宝支付。 根据产品PRD提供的业务UI和流程，分析用户会有的行为，根据行为画出用户用例图。 系统建模 细节的流程设计，使用UML画执行流程图。最终代码也就是这个执行过程。 .</description>
+    <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>🪴常青藤</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description> 把握当下，认真、严谨、不骄、不躁。todo 💼工作专用区 常用代码小记 工作记录 📋近期任务 个人介绍 健康生活的个人实践 肌肉健身 + 腹肌运动 + HIFI + 睡觉 技术广度与深度的探索 - 复盘（专注于有用的，时间浪费在哪里?提高效率） 每日打卡 第二语言 阅读 独立游戏开发 📖近期技术文章 需求设计 表结构设计规范 Docker部署技术栈环境 Kafka学习 技术认知 🏠近期生活文章 🍳做饭指南 测试显示屏 🧭记录 图标emojipedia.org/ 可以直接问AI去要的？哈哈哈哈 倒数日 📔近期书籍（专注于一本书籍） 认知觉醒 被讨厌的勇气 🎥近期电影 罗小黑战记...</description>
+    <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
